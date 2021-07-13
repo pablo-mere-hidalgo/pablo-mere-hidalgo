@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablo-mere-hidalgo
-- 👀 I’m interested finding my true purpose: so I'm loking to learn many things. 
-- 🌱 I’m currently learning a Masters degree in Prbability and Statistics
+- 👀 I’m interested finding my true purpose: so I'm trying to learn many things. 
+- 🌱 I’m currently learning a Masters degree in Probability and Statistics
 - 💞️ I’m looking to collaborate on data science proyects including neuroscience, economics or combinatorial optimization. 
 - 📫 How to reach me pablo.mere@cimat.mx
 
