@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pablo-mere-hidalgo
+- 👋 Hi, I’m Pablo Mere Hidalgo
 - 👀 I’m interested finding my true purpose: so I'm trying to learn many things. 
 - 🌱 I’m currently learning a Masters degree in Probability and Statistics
 - 💞️ I’m looking to collaborate on data science proyects including neuroscience, economics or combinatorial optimization. 
